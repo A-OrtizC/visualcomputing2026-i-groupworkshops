@@ -6,8 +6,8 @@
 
 Alejandro Ortiz Cortes  
 Diego Alberto Romero Olmos  
-Melissa Forero  
-Gabriel Anzola
+Melissa Dayanna Forero Narvaez  
+Gabriel Andres Anzola Tachak
 
 ---
 
