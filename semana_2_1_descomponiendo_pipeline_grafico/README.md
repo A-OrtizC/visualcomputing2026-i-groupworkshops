@@ -3,9 +3,10 @@
 ---
 
 ## Participantes
-Alejandro Ortiz Cortes
-Diego Alberto Romero Olmos
-Melissa Forero
+
+Alejandro Ortiz Cortes  
+Diego Alberto Romero Olmos  
+Melissa Forero  
 Gabriel Anzola
 
 ---
